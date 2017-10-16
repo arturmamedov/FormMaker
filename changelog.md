@@ -3,6 +3,25 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 ----
 
+## [v1.2.0] - 2017-08-31
+
+### Changed
+- Laravel 5.5 support
+
+## [v1.1.4] - 2017-08-25
+
+### Fixed
+- Minor issue with test setup
+
+## [v1.1.3] - 2017-08-25
+
+### Added
+- Support for horizontal forms
+- Support for multiple selects and hasMany and belongsToMany relationships
+
+### Fixed
+- Minor dbal issue
+
 ## [v1.1.2] - 2017-05-15
 
 ### Changed
